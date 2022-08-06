@@ -2,4 +2,4 @@
 
 [work in progress]
 
-app to practice access to native resources in android contacts
+app to practice access to android native resources in contacts
